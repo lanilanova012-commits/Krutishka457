@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Animeshka457",
+  "description": "Ролевой текстовый ИИ-чат для взрослых 21+ с глубокими характерами, шкалами отношений (доверие, любовь, вожделение, гнев) и динамическим сюжетом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
